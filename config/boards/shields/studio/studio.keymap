@@ -46,9 +46,5 @@
                    &none         &none                  &studio_unlock                     &none      &none
             >;
         };
-        
-        extra_layer_4 {
-            status = "reserved";
-        };
     };
 };
