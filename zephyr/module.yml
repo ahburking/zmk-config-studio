@@ -1,3 +1,4 @@
+name: studio
 build:
   settings:
     board_root: .

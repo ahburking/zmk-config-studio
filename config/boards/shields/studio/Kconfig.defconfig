@@ -1,0 +1,6 @@
+if SHIELD_STUDIO
+
+config ZMK_KEYBOARD_NAME
+    default "studio"
+
+endif
