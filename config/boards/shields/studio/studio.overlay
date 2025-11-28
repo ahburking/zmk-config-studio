@@ -93,4 +93,9 @@
             , <&key_physical_attrs 125 100   900   300     0     0     0>
             ;
     };    
+
+        chosen {
+        zmk,kscan = &default_kscan;// Required if it's the default kscan for all physical layouts
+        zmk,physical-layout = &physical_layout0;
+    };  
 };
